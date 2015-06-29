@@ -3,7 +3,7 @@
 stormchasing simulator is a simulation of stormchasing which allows 
 online play as well as voice chat.
 
-Copyright (C) 2015  i** sutter <stormchaser3000>
+Copyright (C) 2015  i** sutter (stormchaser3000)
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
